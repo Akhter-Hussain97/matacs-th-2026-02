@@ -1,6 +1,6 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-- **Name:** Akhter Hussain
+- **Name:** AKHTER HUSSAIN
 - **Reference:** MATACS-TH-2026-02
 - **Time actually spent:** 1 hour
 
